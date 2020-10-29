@@ -1,6 +1,11 @@
 .fbs-content #container-bookable .page-content .header-spacing {
   display: none;
 }
+.header-banner img.header-banner-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
 .fbs-content
   #container-bookable
   .page-content
