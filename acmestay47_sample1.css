@@ -1,0 +1,380 @@
+.fbs-content #container-bookable .page-content .header-spacing {
+  display: none;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  .date-and-currency {
+  background-color: #263238;
+  color: white;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  .date-and-currency
+  .date-previous,
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  .date-and-currency
+  .date-next {
+  background-color: #607d8b;
+  border-radius: 0;
+  width: 100%;
+  border: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  .date-and-currency
+  .date-column
+  .calendar-date-picker-label {
+  text-align: right;
+  padding-right: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  .date-and-currency
+  .date-column
+  .calendar-date-picker
+  .date-picker-button-group
+  .date-pick-widget {
+  border-radius: 0;
+  border: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  .date-and-currency
+  .currency-picker
+  .currency-picker-element
+  .selectpicker {
+  border-radius: 0;
+  border: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar {
+  margin-bottom: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  thead
+  tr.calendar-title-row
+  th {
+  background: #607d8b;
+  border-bottom: #263238;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  thead
+  tr.calendar-title-row
+  th.pricing-cell {
+  text-align: center;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  td.combo-info-panel {
+  background-color: white;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  td.combo-info-panel
+  h4 {
+  padding: 15px;
+  background-color: #263238;
+  color: white;
+  margin-top: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  td.combo-info-panel
+  .combination-information {
+  padding-left: 15px;
+  border-bottom: solid thin #263238;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .key-instructions-select-row {
+  background: #607d8b;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .key-instructions-select-row
+  .key-section {
+  display: none;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .key-instructions-select-row
+  .select-actions-section {
+  float: right;
+  padding-right: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .key-instructions-select-row
+  .select-actions-section
+  .reset-calendar-selection {
+  background-color: #263238;
+  color: white;
+  border-radius: 0;
+  border: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .key-instructions-select-row
+  .select-actions-section
+  .reset-calendar-selection:hover {
+  color: #607d8b;
+  background-color: white;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .bookable-footer-total-col {
+  background: #607d8b;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .bookable-footer-total-col
+  .select-calendar-selection {
+  background-color: #263238;
+  color: white;
+  border-radius: 0;
+  border: 0;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr
+  .bookable-footer-total-col
+  .select-calendar-selection:hover {
+  color: #607d8b;
+  background-color: white;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row {
+  border-bottom: 1px dashed #607d8b;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell {
+  cursor: pointer;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell
+  label.pricing-cell-container {
+  cursor: pointer;
+  padding: 1.3em;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell
+  .pricing-cell-checkbox {
+  display: none;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell.available {
+  background-color: white;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell.available
+  .status-indicator {
+  display: none;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell.available:hover {
+  background-color: black;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell.available:hover
+  label.pricing-cell-container
+  .pricing-cell-price {
+  color: white;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell.available.active {
+  background-color: #607d8b;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell.available.active
+  .pricing-cell-price {
+  color: yellow;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.pricing-cell.on-request
+  .status-indicator {
+  display: block;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.row-total-td
+  button.total-col-add-to-cart {
+  color: white;
+  background: #263238;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.combination-row
+  td.row-total-td
+  button.total-col-add-to-cart:hover {
+  color: yellow;
+}
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.odd
+  td,
+.fbs-content
+  #container-bookable
+  .page-content
+  .bookable-calendar-container
+  table.bookable-calendar
+  tbody
+  tr.even
+  td {
+  background-color: white;
+}
