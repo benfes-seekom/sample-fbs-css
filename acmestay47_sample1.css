@@ -20,6 +20,11 @@
   height: 300px;
   object-fit: cover;
 }
+.continue-bar .btn-next, .progress-controls .btn-next {
+  background: green;
+  font-size: 1.5em;
+  padding: 1em;
+}
 .seller-entity-login .agent-login-row {
   margin-left: auto;
   width: auto;
@@ -206,6 +211,9 @@
   .reset-calendar-selection:hover {
   color: #607d8b;
   background-color: white;
+}
+.extra-container-wrapper .item.list-view .thumbnail .extra-info-and-controls .button-row .price-label {
+  text-align: right;
 }
 .fbs-content
   #container-bookable
