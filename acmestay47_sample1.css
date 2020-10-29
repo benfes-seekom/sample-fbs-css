@@ -16,6 +16,10 @@
   margin-right: 1em;
   border-radius: 0 0 1em 1em;
 }
+#container-bookable .bookable-calendar-container table.bookable-calendar .carousel img {
+  height: 300px;
+  object-fit: cover;
+}
 .seller-entity-login .agent-login-row {
   margin-left: auto;
   width: auto;
