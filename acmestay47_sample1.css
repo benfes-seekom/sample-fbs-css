@@ -212,6 +212,9 @@
   color: #607d8b;
   background-color: white;
 }
+.extra-container-wrapper .item.list-view .thumbnail .extra-info-and-controls .button-row .price-label {
+  text-align: right;
+}
 .fbs-content
   #container-bookable
   .page-content
