@@ -6,6 +6,20 @@
   height: 300px;
   object-fit: cover;
 }
+.seller-entity-login {
+  background: white;
+  position: absolute;
+  right: 0;
+  margin: 0;
+  padding: 1em;
+  width: auto;
+  margin-right: 1em;
+  border-radius: 0 0 1em 1em;
+}
+.seller-entity-login .agent-login-row {
+  margin-left: auto;
+  width: auto;
+}
 .fbs-content
   #container-bookable
   .page-content
